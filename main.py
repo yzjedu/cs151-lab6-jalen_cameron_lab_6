@@ -65,7 +65,7 @@ def main():
         elif choice == 'W':
             current_balance = withdraw(current_balance)
         elif choice == 'V':
-            current_balance = view(current_balance)
+            view(current_balance)
         elif choice == 'E':
             print("Thank you for using the ATM program. Goodbye!")
         else:
