@@ -70,6 +70,6 @@ def main():
             print("Thank you for using the ATM program. Goodbye!")
         else:
             print("Error: Invalid choice. Please enter D, W, V, or E.")
-    print("ATM program has ended.")
+    print("ATM program has ended")
 
 main()
